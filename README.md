@@ -22,7 +22,9 @@ POC/Product Owner: Legacy Team Member
 URL: 
 * Where will it be hosted? 
 * Is the domain already secured? will we need to iframe, cname, or redirect the site?
+Geo Restrictions:
 * Are there any geo restrictions?
+App Questions:
 * Do we have a list of browsers, versions, and device list?
 * Confirm Breakpoints (Desktop, Tablet, Mobile, 16x9, custom specs?)
 * Is the app public facing or an internal portal? is there some sort of authentication?
